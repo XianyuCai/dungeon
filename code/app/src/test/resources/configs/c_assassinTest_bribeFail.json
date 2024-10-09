@@ -1,0 +1,7 @@
+{
+        "assassin_health": 100,
+        "assassin_attack": 30,
+        "assassin_bribe_amount": 1,
+        "assassin_bribe_radius": 2,
+        "assassin_bribe_fail_rate": 1.0
+}

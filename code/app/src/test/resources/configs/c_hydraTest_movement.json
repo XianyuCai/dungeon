@@ -1,0 +1,6 @@
+{
+        "hydra_health": 100,
+        "hydra_attack": 20,
+        "hydra_health_increase_rate": 0.5,
+        "hydra_health_increase_amount": 10
+}
